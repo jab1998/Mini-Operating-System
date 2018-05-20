@@ -9,7 +9,9 @@ This whole project is done using Java.
 Steps to run the program:
 
 javac loginDemo.java
+
 java loginDemo
 
 Username: aravind
+
 Password: 1967
